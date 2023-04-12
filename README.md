@@ -10,57 +10,75 @@ It's because I need to use Discord/Photoshop and send the pictures to a vendor f
 We will make manual adjustments to the text and details, such as ensuring the accuracy of the Tesla car's 'T' logo, using Photoshop in the future. Please note that the raw pictures are quite large, so please be patient with the loading time.
 
 No.1
+
 <img src="/raw_picture/0001.jpg?raw=true" width="512" />
 
 No.2 
+
 <img src="/raw_picture/0002.jpg?raw=true" width="512" />
 
 No.3
+
 <img src="/raw_picture/0003.jpg?raw=true" width="512" />
 
 No.4
+
 <img src="/raw_picture/0004.jpg?raw=true" width="512" />
 
 No.5
+
 <img src="/raw_picture/0005.jpg?raw=true" width="512" />
 
 No.6
+
 <img src="/raw_picture/0006.jpg?raw=true" width="512" />
 
 No.7
+
 <img src="/raw_picture/0007.jpg?raw=true" width="512" />
 
 No.8
+
 <img src="/raw_picture/0008.jpg?raw=true" width="512" />
 
 No.9
+
 <img src="/raw_picture/0009.jpg?raw=true" width="512" />
 
 No.10
+
 <img src="/raw_picture/0010.jpg?raw=true" width="512" />
 
 No.11
+
 <img src="/raw_picture/0011.jpg?raw=true" width="512" />
 
 No.12
+
 <img src="/raw_picture/0012.jpg?raw=true" width="512" />
 
 No.13
+
 <img src="/raw_picture/0013.jpg?raw=true" width="512" />
 
 No.14
+
 <img src="/raw_picture/0014.jpg?raw=true" width="512" />
 
 No.15
+
 <img src="/raw_picture/0015.jpg?raw=true" width="512" />
 
 No.16(a)
+
 <img src="/raw_picture/0016a.jpg?raw=true" width="512" />
 
 No.16(b)
+
 <img src="/raw_picture/0016b.jpg?raw=true" width="512" />
 
 No.17
+
 <img src="/raw_picture/0017.jpg?raw=true" width="512" />
 
 Also, there are some others that may not be perfect for a T-shirt, but I'd also like to show you to have a check. Feel free to make any comments.
