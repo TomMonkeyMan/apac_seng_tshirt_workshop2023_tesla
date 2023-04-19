@@ -81,6 +81,29 @@ No.17
 
 <img src="/raw_picture/0017.jpg?raw=true" width="512" />
 
+I'm adding minions as an option for t-shirt printing, since I've received multiple requests for it.
+
+No.18
+
+<img src="/raw_picture/1006.jpg?raw=true" width="512" />
+
+No.19
+
+<img src="/raw_picture/1010.jpg?raw=true" width="512" />
+
+No.20
+
+<img src="/raw_picture/1011.jpg?raw=true" width="512" />
+
+No.21
+
+<img src="/raw_picture/1012.jpg?raw=true" width="512" />
+
+No.22
+
+<img src="/raw_picture/1013.jpg?raw=true" width="512" />
+
+
 Also, there are some others that may not be perfect for a T-shirt, but I'd also like to show you to have a check. Feel free to make any comments.
 
 <img src="/raw_picture/1001.jpg?raw=true" width="512" />
@@ -88,8 +111,7 @@ Also, there are some others that may not be perfect for a T-shirt, but I'd also 
 <img src="/raw_picture/1003.jpg?raw=true" width="512" />
 <img src="/raw_picture/1004.jpg?raw=true" width="512" />
 <img src="/raw_picture/1005.jpg?raw=true" width="512" />
-<img src="/raw_picture/1006.jpg?raw=true" width="512" />
 <img src="/raw_picture/1007.jpg?raw=true" width="512" />
 <img src="/raw_picture/1008.jpg?raw=true" width="512" />
 <img src="/raw_picture/1009.jpg?raw=true" width="512" />
-<img src="/raw_picture/1010.jpg?raw=true" width="512" />
+
