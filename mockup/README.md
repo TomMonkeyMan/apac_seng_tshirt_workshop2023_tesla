@@ -1,3 +1,3 @@
 ##Mockups
 
-<img src="/raw_picture/tshirt_seng_v0.1.png?raw=true" width="512" />
+<img src="/mockup/tshirt_seng_v0.1.png?raw=true" width="512" />
