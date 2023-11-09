@@ -1,4 +1,8 @@
 # apac_seng_tshirt_workshop2023_tesla
+
+## LICENSE
+we notcied someone is using the design and we are now announcing that the designs are original works and are pretected by copyright laws. Pls check LICENSE file.
+
 This repo contains the midjourney generated design for workshop T-shirt.
 
 Why am I using external Git instead of Tesla within Confluence or internal service? 
